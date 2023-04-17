@@ -19,7 +19,7 @@ BYTG (Build Your Token Grabber)
 * Send the exe file to your victim.
 
 ## :question: Support
-If you have any issues or need help contantact 2loop#6969, CaptainBeluga#5006 on discord or just join our [server](https://discord.gg/XnRjFmgPYz).
+If you have any issues or need help contantact CaptainBeluga#5006, 2loop#6969 on discord or just join our [server](https://discord.gg/XnRjFmgPYz).
 
 ## :warning: Disclaimer
 Please note that the infos and information contained in this program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
