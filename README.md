@@ -11,7 +11,7 @@
 ## 📍 About
 BYTG (Build Your Token Grabber)
 
-![aw](https://user-images.githubusercontent.com/87500882/232896443-3fc629c7-19d3-4158-a2ba-b1864794b997.png)
+![aw](https://repository-images.githubusercontent.com/628714948/dd9f90a6-1935-438a-a39a-ef9a7b54d2e3)
 
 
 ## 💻 Usage
