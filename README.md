@@ -15,6 +15,7 @@ BYTG (Build Your Token Grabber)
 
 
 ## 💻 Usage
+* Install dependencies: python , pyinstaller , pyarmor
 * Download the exe verions from the last [realese](https://github.com/CaptainBeluga/BYTG/releases/).
 * Execute it as ADMINISTRATOR :warning:
 * Input your discord webhook link.
